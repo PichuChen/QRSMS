@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: text/xml; charset=UTF-8
+Server: netcat!
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Message>感謝您使用簡訊實聯，請將此畫面給店員，並保持勤洗手，戴口罩，保持社交距離，讓我們一起度過疫情。</Message>
+</Response>
